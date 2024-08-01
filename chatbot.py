@@ -4,7 +4,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
 #upload pdf files
-OPENAI_API_KEY="sk-proj-1i1gNxLa2Ji3LwmSF10MT3BlbkFJMC0rZN0nztPtnvoEUaD1"
+OPENAI_API_KEY="****"
 st.header("My first Chatbot")
 
 with st.sidebar:
